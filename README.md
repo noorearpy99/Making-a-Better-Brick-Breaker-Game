@@ -1,6 +1,6 @@
 # Making-a-Better-Brick-Breaker-Game
 
-Amended the program provided (project.py) so the following requirements are met:
+Amended the program (project01.py) provided by Professor, so the following requirements are met:
 
 • The window size is 800x600 and the window title is “Brick Breaker – Group #?” where “?”
 is your group number (1 point).
